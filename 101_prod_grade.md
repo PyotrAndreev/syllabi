@@ -1,4 +1,4 @@
-This course will help you prepare for the production world and strengthen your portfolio through real projects.# 101 Production-Grade Python
+# 101 Production-Grade Python
 
 Do you know how to turn Python code into a production system?  
 `In 101 Production-Grade Python`, you’ll learn how to:
