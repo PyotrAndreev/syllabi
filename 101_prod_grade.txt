@@ -1,0 +1,5 @@
+Production-Grade Python
+
+Do you know how to turn Python code into a production system?
+In 101 Production-Grade Python, you’ll learn how to design, build, test, package, deploy, and debug real Python services. We’ll cover at least APIs, databases, brokers, Docker, CI/CD and system design, so you can see the whole architecture, explain your decisions, and rebuild your own project.
+This course is for juniors and middles who want to move from “it works on my machine” to “I can ship, scale, and support it.”
